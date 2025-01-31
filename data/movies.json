@@ -1,0 +1,17 @@
+{
+    "results": [
+      {
+        "backdrop_path": "/path/to/image.jpg",
+        "title": "Movie Title",
+        "name": "Movie Name",
+        "overview": "Movie description"
+      },
+      {
+        "backdrop_path": "/path/to/image2.jpg",
+        "title": "Another Movie Title",
+        "name": "Another Movie Name",
+        "overview": "Another description"
+      }
+      
+    ]
+  }
